@@ -1,0 +1,47 @@
+.image-with-text {
+    padding: 20px;
+    flex: 1;
+    max-width: 300px; /* Adjust the max width as needed */
+    margin-bottom: 20px;
+  }
+  
+  
+  .image {
+    width: 100%;
+    max-width: 400px; /* Adjust the max width as needed */
+    height: auto;
+  }
+
+  .image:hover {
+    border: 1em solid black;
+  }
+  
+  .text-container {
+    padding: 20px;
+    background-color: #f0f0f0;
+    width: 100%;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 16px;
+  }
+  
+  .image-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .image-with-text {
+      padding: 20px; /* Restore padding for larger screens */
+    }
+  }
+  
+  

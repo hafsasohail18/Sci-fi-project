@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Which science fiction novel is often considered the first of its genre?",
+      "options": ["Frankenstein", "1984", "Brave New World", "War of the Worlds"],
+      "correctAnswer": "Frankenstein"
+    },
+    {
+      "question": "In the movie 'Blade Runner,' what are the androids called?",
+      "options": ["Humans", "Replicants", "Synthetics", "Cylons"],
+      "correctAnswer": "Replicants"
+    },
+    {
+      "question": "Who wrote the 'Foundation' series of science fiction books?",
+      "options": ["Isaac Asimov", "Philip K. Dick", "Arthur C. Clarke", "Robert A. Heinlein"],
+      "correctAnswer": "Isaac Asimov"
+    },
+    {
+        "question": "What are the 'bad guys' called in Transformers (2007)?",
+        "options": ["Cyclone", "Deceptions", "Clierk", "Autobots"],
+        "correctAnswer": "Deceptions"
+      }
+
+   
+  ]
+  
+  

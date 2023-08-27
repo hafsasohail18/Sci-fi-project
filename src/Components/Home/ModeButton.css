@@ -1,0 +1,28 @@
+.image-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .image-button img {
+    width: 30px; /* Set the desired width */
+    height: 30px; /* Maintain aspect ratio */
+  }
+  
+  /*
+  .clicked {
+    background-color: lightblue;
+    border: 2px solid blue;
+  }
+  
+  */
+
+  .night-mode {
+    background-color: #121212;
+    color: black; /* You might want to adjust text color for visibility */
+  }
+
+  .night-mode > span {
+    color: white;
+  }
